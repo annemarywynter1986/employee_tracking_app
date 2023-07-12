@@ -1,13 +1,12 @@
 const inquirer = require("inquirer");
 const mysql = require("mysql2");
-const cfonts = require('cfonts');
 
 // create a MySQL connection
 const connection = mysql.createConnection({
     host: "localhost",
-    port: 3306,
+    port: 3301,
     user: "root",
-    password: "",
+    password: "TEam4387!",
     database: "employeeTracker_db",
 });
 
