@@ -9,7 +9,7 @@ app.use(express.json());
 
 // create a MySQL connection
 
-const db = mysql.createConnection(
+const connection = mysql.createConnection(
     {
       host: 'localhost',
       user: 'root',
@@ -26,6 +26,9 @@ connection.connect((err) => {
     start();
 });
 
+app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
+});
 
 // Function to Start  SQL Employee Tracker Application
 function start() {
