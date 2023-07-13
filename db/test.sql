@@ -1,3 +1,3 @@
 select * from department; 
-select * from role; 
+select role_id from employee; 
 select * from employee;
