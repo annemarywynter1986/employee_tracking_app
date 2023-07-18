@@ -45,8 +45,18 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
-## GIF.
+## GIF and Screenshots
 ### Figure 1. GIF Command line interface
+![Untitled design (10)](https://github.com/annemarywynter1986/employee_tracking_app/assets/130412307/1e58a92d-8398-43df-a4e4-25c2f01886c2)
+
+
+![image](https://github.com/annemarywynter1986/employee_tracking_app/assets/130412307/7e4b1e56-857b-48f7-b9f8-a464a704cb1d)
+![image](https://github.com/annemarywynter1986/employee_tracking_app/assets/130412307/ebcd091e-ea2c-4272-8c3e-2b61dbb333d3)
+![image](https://github.com/annemarywynter1986/employee_tracking_app/assets/130412307/7281a193-2dde-40e8-bd60-808c47e3a797)
+![image](https://github.com/annemarywynter1986/employee_tracking_app/assets/130412307/59a85421-0aea-4311-a2fc-cccc95ea31df)
+![image](https://github.com/annemarywynter1986/employee_tracking_app/assets/130412307/7857e72d-e4bb-48d3-8ee5-96da2f7492a4)
+
+
 
 
 ## Usage Instructions
@@ -60,11 +70,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Repository Link:
 [Repository Link 'Click Here'.](https://github.com/annemarywynter1986/employee_tracking_app.git)
 
-## YouTube Walkthrough Video:
-[Click Here to Watch.]()
-
-## Screenshots.
-### Figure 1. Command line interface
+##  Walkthrough Video:
+[Click Here to Watch.](https://drive.google.com/file/d/1JTmUG8lVC0mBgP6h-0UcVQ1PtaE9x8I3/view?usp=sharing)
 
 
 ## Installation Process
