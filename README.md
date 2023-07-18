@@ -92,3 +92,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 ### Continued Development:
 1. Create 'History'feature that records the date of when employess are 'Added' and 'Removed'.
 2. Adjust file/folder sorting, create several child folders for server.js file to better organize and seperate additional inquirer features.
+
+## Author:
+Anne Mary Wynter
